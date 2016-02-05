@@ -9,7 +9,7 @@
 
 abstract class Human // Значит необходимо обьявлять абстрактный класс
 {
-    abstract public function printHello(); //содержится один абстрактный метод _ МЕТОД БЕЗ РЕАЛИЗАЦИИ
+    abstract public function printHello(); //содержится один абстрактный метод _ МЕТОД БЕЗ РЕАЛИЗАЦИИ - напоминалка
 
     public function printHelloName($name) //обыкновенный метод _ МЕТОД С РЕАЛИЗАЦИЕЙ
     {
